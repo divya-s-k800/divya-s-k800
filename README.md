@@ -1,4 +1,13 @@
-![Anime Developer Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0b1026,50:34256b,100:00c6ff&height=220&section=header&text=DIVYA%20S%20K&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Anime%20Soul%20%7C%20Code%20Mind&descAlignY=60&descSize=18)
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:4B6CB7&height=200&section=header&text=Divya%20S%20K&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=CSE%20Student%20%7C%20Developer%20in%20Progress&descAlignY=58&descSize=16" width="100%" alt="Divya SK professional developer banner" />
+
+</div>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=4B6CB7&center=true&vCenter=true&width=500&lines=CSE+Student;Learning+C%2C+Java+%26+DSA;Building+Projects+One+Step+at+a+Time" alt="Typing animation" />
+
+</div>
 
 <h1 align="center">Hey there! I'm Divya 👋</h1><h3 align="center">🎓 CSE Student | 💻 Developer in Progress | 🌸 Anime Fan</h3><p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=600&lines=Learning+to+code%2C+one+step+at+a+time;C+%7C+Python+%7C+Java+%7C+DSA;Anime+fan+with+a+developer+mindset;Turning+ideas+into+projects+%F0%9F%9A%80" alt="Typing animation" />
