@@ -46,6 +46,7 @@
 - 📸 Instagram: "Visit Instagram" (https://www.instagram.com/)
 - 📌 Pinterest: "Explore Pinterest" (https://www.pinterest.com/)
 - 🎧 Spotify: "Listen on Spotify" (https://open.spotify.com/)
+- 🎨 Canva: "Visit my Canva" (https://www.canva.com/settings/your-account)
 
 ---
 
